@@ -1,2 +1,2 @@
-# metodoburbuja
-Metodo burbuja en Java
+# metodoordenamiento
+Metodo ordenamiento en Java
